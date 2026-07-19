@@ -1,0 +1,143 @@
+{
+  "personal": {
+    "name": "Vicky",
+    "title": ["Computer Science Engineer", "AI/ML Developer", "Full Stack Developer", "Cyber Security Enthusiast", "Open Source Contributor"],
+    "bio": "I'm a passionate Computer Science Engineering student and a developer who loves building AI/ML models, scalable web applications, and exploring the world of Cyber Security.",
+    "resumeLink": "/resume.pdf",
+    "social": {
+      "github": "https://github.com/",
+      "linkedin": "https://linkedin.com/in/",
+      "instagram": "https://instagram.com/",
+      "email": "vicky@example.com"
+    }
+  },
+  "skills": {
+    "programming": [
+      { "name": "Python", "level": 90 },
+      { "name": "Java", "level": 80 },
+      { "name": "C++", "level": 75 },
+      { "name": "JavaScript", "level": 85 }
+    ],
+    "web": [
+      { "name": "React", "level": 85 },
+      { "name": "FastAPI", "level": 70 },
+      { "name": "Node.js", "level": 75 },
+      { "name": "MongoDB", "level": 80 },
+      { "name": "MySQL", "level": 80 },
+      { "name": "HTML", "level": 95 },
+      { "name": "CSS", "level": 90 }
+    ],
+    "ai_ml": [
+      { "name": "Machine Learning", "level": 85 },
+      { "name": "Deep Learning", "level": 80 },
+      { "name": "OpenCV", "level": 75 },
+      { "name": "TensorFlow", "level": 70 },
+      { "name": "PyTorch", "level": 75 },
+      { "name": "Mediapipe", "level": 80 },
+      { "name": "Computer Vision", "level": 85 }
+    ],
+    "tools": [
+      { "name": "Cyber Security", "level": 70 },
+      { "name": "Git", "level": 90 },
+      { "name": "GitHub", "level": 90 },
+      { "name": "Docker", "level": 65 },
+      { "name": "Linux", "level": 85 },
+      { "name": "Networking", "level": 70 }
+    ]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "AI Cricket Coach",
+      "description": "An AI-powered application that acts as a virtual cricket coach, analyzing player shots and providing actionable feedback.",
+      "image": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "features": ["Pose Estimation using MediaPipe", "Shot Classification", "BiLSTM Model", "Performance Analytics"],
+      "techStack": ["Python", "TensorFlow", "MediaPipe", "OpenCV"],
+      "github": "https://github.com/",
+      "liveDemo": "https://example.com"
+    },
+    {
+      "id": 2,
+      "title": "SentinelGuard",
+      "description": "An integrated Cyber Security Intelligence Platform designed to monitor networks, detect threats, and scan URLs.",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "features": ["Threat Detection", "OSINT Dashboard", "URL Scanner", "IP Intelligence", "Phishing Detection", "Network Monitoring", "Reports Dashboard"],
+      "techStack": ["Python", "React", "Node.js", "FastAPI"],
+      "github": "https://github.com/",
+      "liveDemo": "https://example.com"
+    },
+    {
+      "id": 3,
+      "title": "Sports Talent Assessment Platform",
+      "description": "An AI-based sports analytics platform tracking player performance and analyzing poses using Deep Learning.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "features": ["AI based sports analytics", "Player performance tracking", "Pose analysis", "Deep Learning"],
+      "techStack": ["Python", "PyTorch", "React", "Computer Vision"],
+      "github": "https://github.com/",
+      "liveDemo": "https://example.com"
+    },
+    {
+      "id": 4,
+      "title": "Portfolio Website",
+      "description": "A premium, award-winning portfolio website built with modern web technologies, featuring 3D elements and advanced animations.",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "features": ["Responsive Design", "3D Hero Background", "Framer Motion Animations", "GitHub Integration"],
+      "techStack": ["React", "Vite", "Material UI", "Three.js", "Framer Motion"],
+      "github": "https://github.com/",
+      "liveDemo": "https://example.com"
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "title": "Research Intern",
+      "company": "Tech University",
+      "date": "2024 - Present",
+      "description": "Conducted research on Deep Learning techniques for Computer Vision applications."
+    },
+    {
+      "id": 2,
+      "title": "Freelance Full Stack Developer",
+      "company": "Self-Employed",
+      "date": "2023 - 2024",
+      "description": "Developed and deployed multiple scalable web applications for clients."
+    },
+    {
+      "id": 3,
+      "title": "Cyber Security Trainee",
+      "company": "CyberSec Institute",
+      "date": "2023",
+      "description": "Learned and practiced penetration testing, threat hunting, and network security."
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "B.Tech in Computer Science Engineering",
+      "institution": "University Name",
+      "date": "2022 - 2026",
+      "description": "Focusing on AI/ML and full-stack development. Active member of the coding club."
+    }
+  ],
+  "certifications": [
+    {
+      "id": 1,
+      "title": "Advanced Machine Learning",
+      "issuer": "Coursera",
+      "date": "2024",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "title": "Certified Ethical Hacker (CEH)",
+      "issuer": "EC-Council",
+      "date": "2023",
+      "link": "#"
+    }
+  ],
+  "stats": {
+    "projects": 15,
+    "certifications": 8,
+    "hackathons": 5
+  }
+}
