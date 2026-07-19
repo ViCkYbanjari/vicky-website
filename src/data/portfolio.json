@@ -1,8 +1,8 @@
 {
   "personal": {
     "name": "Vicky",
-    "title": ["Computer Science Engineer", "AI/ML Developer", "Full Stack Developer", "Cyber Security Enthusiast", "Open Source Contributor"],
-    "bio": "I'm a passionate Computer Science Engineering student and a developer who loves building AI/ML models, scalable web applications, and exploring the world of Cyber Security.",
+    "title": ["Computer Science Engineer", "AI/ML Developer", "Full Stack Developer", "Open Source Contributor"],
+    "bio": "I'm a passionate Computer Science Engineering student and a developer who loves building AI/ML models and scalable web applications.",
     "resumeLink": "/resume.pdf",
     "social": {
       "github": "https://github.com/",
@@ -37,7 +37,6 @@
       { "name": "Computer Vision", "level": 85 }
     ],
     "tools": [
-      { "name": "Cyber Security", "level": 70 },
       { "name": "Git", "level": 90 },
       { "name": "GitHub", "level": 90 },
       { "name": "Docker", "level": 65 },
@@ -53,16 +52,6 @@
       "image": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       "features": ["Pose Estimation using MediaPipe", "Shot Classification", "BiLSTM Model", "Performance Analytics"],
       "techStack": ["Python", "TensorFlow", "MediaPipe", "OpenCV"],
-      "github": "https://github.com/",
-      "liveDemo": "https://example.com"
-    },
-    {
-      "id": 2,
-      "title": "SentinelGuard",
-      "description": "An integrated Cyber Security Intelligence Platform designed to monitor networks, detect threats, and scan URLs.",
-      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-      "features": ["Threat Detection", "OSINT Dashboard", "URL Scanner", "IP Intelligence", "Phishing Detection", "Network Monitoring", "Reports Dashboard"],
-      "techStack": ["Python", "React", "Node.js", "FastAPI"],
       "github": "https://github.com/",
       "liveDemo": "https://example.com"
     },
@@ -101,13 +90,6 @@
       "company": "Self-Employed",
       "date": "2023 - 2024",
       "description": "Developed and deployed multiple scalable web applications for clients."
-    },
-    {
-      "id": 3,
-      "title": "Cyber Security Trainee",
-      "company": "CyberSec Institute",
-      "date": "2023",
-      "description": "Learned and practiced penetration testing, threat hunting, and network security."
     }
   ],
   "education": [
@@ -125,13 +107,6 @@
       "title": "Advanced Machine Learning",
       "issuer": "Coursera",
       "date": "2024",
-      "link": "#"
-    },
-    {
-      "id": 2,
-      "title": "Certified Ethical Hacker (CEH)",
-      "issuer": "EC-Council",
-      "date": "2023",
       "link": "#"
     }
   ],
